@@ -1,4 +1,4 @@
 # karanjs
 lets start learing
 <br>
-author: rajinder kumar
+author: rajinder kumar (student)
